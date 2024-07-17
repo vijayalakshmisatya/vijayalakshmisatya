@@ -3,7 +3,7 @@
 </div>
 
 
-# Welcome to My github profile  <img hight="200" width="300" alt="GIF" align="right" src="https://github.com/vijayalakshmisatya/vijayalakshmisatya/blob/main/your-welcome.gif">
+# Welcome to My github profile 
 
 
 <div align="center">
