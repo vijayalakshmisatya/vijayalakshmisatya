@@ -64,7 +64,7 @@ I can’t ride a bike (yet!) but I plan to learn this year
 
 
 
-[![The Guide I Wish I Had When I Started Learning to Code](https://miro.medium.com/v2/resize:fit:340/format:webp/1*W3c8Gd1UWIyAiFzgeEREzQ.png "The Guide I Wish I Had When I Started Learning to Code")](https://medium.com/@dsatyasai224/how-to-get-started-with-programming-the-guide-i-wish-i-had-when-i-started-learning-to-code-cd2085da7874)
+[![**The Guide I Wish I Had When I Started Learning to Code**](https://miro.medium.com/v2/resize:fit:340/format:webp/1*W3c8Gd1UWIyAiFzgeEREzQ.png "The Guide I Wish I Had When I Started Learning to Code")](https://medium.com/@dsatyasai224/how-to-get-started-with-programming-the-guide-i-wish-i-had-when-i-started-learning-to-code-cd2085da7874)
 
 
 
