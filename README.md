@@ -19,7 +19,7 @@
 </br>
 
 
-# About ME 💬 :
+**# About ME 💬 :**
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
@@ -41,7 +41,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+**# Languages & Tools 👨‍💻 🛠:**
 </br>
 
 <p align="center">
@@ -67,9 +67,7 @@
 
 
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+
   </a>
   </p>
 
