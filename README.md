@@ -64,7 +64,7 @@ I can’t ride a bike (yet!) but I plan to learn this year
 
 <!-- END YOUTUBE-CARDS -->
 
-https://miro.medium.com/v2/resize:fit:640/format:webp/1*W3c8Gd1UWIyAiFzgeEREzQ.png
+
 
  </p>
  
