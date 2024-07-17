@@ -30,6 +30,8 @@
 - ✨ Gaming Addict
 - ✨ Exploring things
 - ✨ Gaining Financial Knowledge
+### - Fun-Fact :
+I can’t ride a bike (yet!) but I plan to learn this year
 
 
 </br>
