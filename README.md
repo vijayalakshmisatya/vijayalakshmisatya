@@ -5,23 +5,20 @@
 
 # Welcome to My github profile  👋 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/vijayalakshmisatya/vijayalakshmisatya/blob/main/your-welcome.gif">
 
-<br/>
+
 <div align="center">
 <img src="https://github.com/vijayalakshmisatya/vijayalakshmisatya/blob/main/messagif.gif" alt=" Typer" />
 </div>
 <br/>
 
-<!--
+
 
 
 </br>
 </br>
 </br>
 
-
-**# About ME 💬 :**
-
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+# About ME 💬 :
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/vijayalakshmisatya/vijayalakshmisatya/blob/main/code.gif">
 
@@ -35,7 +32,6 @@
 - ✨ Gaining Financial Knowledge
 
 
-</br>
 </br>
 </br>
 
