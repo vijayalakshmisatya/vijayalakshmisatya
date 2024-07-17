@@ -39,7 +39,7 @@ I can’t ride a bike (yet!) but I plan to learn this year
 
 
 
-**# Languages & Tools 👨‍💻 🛠:**
+#  Languages & Tools 👨‍💻 🛠:
 </br>
 
 <p align="center">
